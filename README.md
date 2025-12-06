@@ -43,9 +43,7 @@ This project was built to strengthen core React concepts like state management, 
 
 Clone the repository:
 ```bash
-git clone https://github.com/
-sanket0828
-/travel-packer.git
+git clone https://github.com/sanket0828/travel-packer.git
 ```
 
 Navigate to the project directory
