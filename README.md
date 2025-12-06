@@ -48,7 +48,7 @@ git clone https://github.com/sanket0828/Travel-Packaging-List.git
 
 Navigate to the project directory
 ```bash
-cd travel-packer
+cd Travel-Packaging-List
 ```
 
 Install dependencies
